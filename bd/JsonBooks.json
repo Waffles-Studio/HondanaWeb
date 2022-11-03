@@ -1,0 +1,51 @@
+[
+  {
+    "BookTitle": "Mieruko-chan",
+    "EditorialName": "Kadokawa Shoten",
+    "BookISBN": "0-7645-2641-3",
+    "BookRating": 4.0,
+	  "BookCoverPage":"81GNUGyAD2L.png"
+  },
+  {
+    "BookTitle": "Komi-san wa, Komyusho desu.",
+    "EditorialName": "Shogakukan",
+    "BookISBN": "0-7645-2641-4",
+    "BookRating": 5,
+	  "BookCoverPage":"713U7787WCL.png"
+  },
+  {
+    "BookTitle": "Go-Tobun no Hanayome",
+    "EditorialName": "Kodansha",
+    "BookISBN": "0-7645-2641-5",
+    "BookRating": 3.1,
+  	"BookCoverPage":"qq-Volume_1_Cover.png"
+  },
+  {
+    "BookTitle": "One Punch-Man",
+    "EditorialName": "Shueisha",
+    "BookISBN": "0-7645-2641-6",
+    "BookRating": 4.8,
+  	"BookCoverPage":"91a68XZBmbL.png"
+  },
+  {
+    "BookTitle": "Jujutsu Kaisen",
+    "EditorialName": "Shueisha",
+    "BookISBN": "0-7645-2641-7",
+    "BookRating": 3.5,
+  	"BookCoverPage":"JK-Volume_1.png"
+  },
+  {
+    "BookTitle": "Mistborn: The Final Empire",
+    "EditorialName": "Tor Books",
+    "BookISBN": "0-7645-2641-8",
+    "BookRating": 3.2,
+  	"BookCoverPage":"81PUv5VBl1L.png"
+  },
+  {
+    "BookTitle": "7-nin no Masho Tsukai",
+    "EditorialName": "Dragon Age",
+    "BookISBN": "0-7645-2641-9",
+    "BookRating": 2.5,
+  	"BookCoverPage":"Trinity_Seven_Vol_1.png"
+  }
+]
