@@ -13,7 +13,7 @@ if(isset($_POST['Enviar']))
 {
     //Email de contraseña a recuperar
     //$email_reg=$_POST['email_reg'];
-    $email_reg='182310497@itslerdo.edu.mx';
+    $email_reg='brianba3@hotmail.com';
     $email_name=$_POST['email_name'];
     $email_content=$_POST['email_content'];
 
